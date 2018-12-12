@@ -1,0 +1,3 @@
+Wu, T., & Miao, Z. (2016). An improved feature image matching algorithm based on Locality-Sensitive Hashing. 2016 IEEE 13th International Conference on Signal Processing (ICSP). doi:10.1109/icsp.2016.7877927
+Wang, Q., Guo, Z., Liu, G., & Guo, J. (2012). Entropy based locality sensitive hashing. 2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). doi:10.1109/icassp.2012.6288065
+Ling, K., & Wu, G. (2011). Frequency Based Locality Sensitive Hashing. 2011 International Conference on Multimedia Technology. doi:10.1109/icmt.2011.6002015a

@@ -1,0 +1,37 @@
+
+MinHashAccuracy:-       
+Input:-  C:\Anmol\Deterministic\src\Test  5 0
+Output:- 
+DSelect (2).java
+DSelect (3).java
+DSelect (4).java
+DSelect (5).java
+DSelect.java
+IVRetrieval.pptx
+ThingStore.pptx
+wiki1.txt
+wiki2.txt
+Total number of comparisons: 36
+Number of times exact and approximate jaccard differ more than epsilon: 19
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MinHashSpeed:-	
+Input:-  C:\Anmol\Deterministic\src\Test  5 
+Output:- 
+Exact jaccard total time: 66828 (ms)
+Exact jaccard total time: 66.828 seconds
+------------------------------
+Approx jaccard total time: 11410 (ms)
+Approx jaccard total time: 11.41 seconds
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+NearDuplicates:-
+Input:- C:\Anmol\Deterministic\src\Test  5 3 2 DSelect.java
+Output:-
+Number of false positives: 5
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
